@@ -1,2 +1,2 @@
 # bookbot
-Boot.Dev self-educational project
+BookBot is my first project!
